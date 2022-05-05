@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-05T00:12:44 EEST" name="Default suite" finished-at="2022-05-05T00:13:05 EEST" duration-ms="20844">
+    <groups>
+    </groups>
+    <test started-at="2022-05-05T00:12:44 EEST" name="Default test" finished-at="2022-05-05T00:13:05 EEST" duration-ms="20844">
+      <class name="TestMethods.Testcases">
+        <test-method is-config="true" signature="initiatedriver()[pri:0, instance:TestMethods.Testcases@31fa1761]" started-at="2022-05-05T00:12:44 EEST" name="initiatedriver" finished-at="2022-05-05T00:12:50 EEST" duration-ms="6001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiatedriver -->
+        <test-method signature="estonia()[pri:1, instance:TestMethods.Testcases@31fa1761]" started-at="2022-05-05T00:12:50 EEST" name="estonia" finished-at="2022-05-05T00:12:53 EEST" duration-ms="2661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- estonia -->
+        <test-method signature="searchProduct()[pri:2, instance:TestMethods.Testcases@31fa1761]" started-at="2022-05-05T00:12:53 EEST" name="searchProduct" finished-at="2022-05-05T00:13:05 EEST" duration-ms="11691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestMethods.Testcases@31fa1761]" started-at="2022-05-05T00:13:05 EEST" name="close" finished-at="2022-05-05T00:13:05 EEST" duration-ms="414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestMethods.Testcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
